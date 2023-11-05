@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3503e581-ae6a-4c04-9d07-c57764111657/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/udacityproject2webappservice",
+    "appService.deploySubpath": "."
+}
